@@ -17,6 +17,7 @@
 
 ⚡ Fun fact I Love Mysteries and thrillers
 
+✅ I love to do photography and reading books .
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lonecoder69" alt="lonecoder69" /></a> </p>
 
