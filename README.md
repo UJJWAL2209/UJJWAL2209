@@ -5,8 +5,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lonecoder69&label=Profile%20views&color=0e75b6&style=flat" alt="lonecoder69" /> </p>
-🌱 I’m currently learning Machine Learning , Blockchain , Quant Analytics and Buisness analytics tools
-
+🌱 I’m currently learning Machine Learning , Blockchain , Quant Analytics and Buisness analytics tools .
 
 🌐 Currently doing projects in Machine learning and data analytics .
 
@@ -26,9 +25,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@ujjwals39793763" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ujjwals39793763" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ujjwal srivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ujjwal srivastava" height="30" width="40" /></a>
-<a href="https://kaggle.com/ujjwal srivastava023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ujjwal srivastava023" height="30" width="40" /></a>
+<a href="https://twitter.com/UjjwalS39793763?t=BwfC4R_aJ7bDLhq1x8QRmg&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ujjwals39793763" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ujjwal-srivastava-223b661b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ujjwal srivastava" height="30" width="40" /></a>
+<a href="https://kaggle.com/ujjwalsrivastava023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ujjwal srivastava023" height="30" width="40" /></a>
 <a href="https://fb.com/ujjwal.srivastava.77312" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ujjwal.srivastava.77312" height="30" width="40" /></a>
 <a href="https://instagram.com/ujjwal.srivastava.77312" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ujjwal.srivastava.77312" height="30" width="40" /></a>
 <a href="https://dribbble.com/uzi_22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="uzi_22" height="30" width="40" /></a>
