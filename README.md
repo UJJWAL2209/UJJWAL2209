@@ -17,6 +17,7 @@
 
 ⚡ Fun fact I Love Mysteries and thrillers
 
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lonecoder69" alt="lonecoder69" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@ujjwals39793763" target="blank"><img src="https://img.shields.io/twitter/follow/@ujjwals39793763?logo=twitter&style=for-the-badge" alt="@ujjwals39793763" /></a> </p>
