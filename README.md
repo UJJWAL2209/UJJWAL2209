@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ujjwal Srivastava</h1>
 <h3 align="center">An aspiring data analyst</h3>
-<img allign = "right" alt = "coding" width = "400" src = "https://media.tenor.com/uF7aJqxcM6QAAAAi/digital-skola-bertalenta-digital.gif">
+<img allign = "left" alt = "coding" width = "400" src = "https://media.tenor.com/uF7aJqxcM6QAAAAi/digital-skola-bertalenta-digital.gif">
 
 
 
