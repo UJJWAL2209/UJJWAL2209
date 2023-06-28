@@ -45,7 +45,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/srivastavaj"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/srivastavaj" /></a></p><br><br>
 
-<b>My GitHub Stats</b>
+<b></b>
 
 <a href="http://www.github.com/lonecoder69"><img src="https://github-readme-stats.vercel.app/api?username=lonecoder69&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="lonecoder69's GitHub stats" /></a>
 
