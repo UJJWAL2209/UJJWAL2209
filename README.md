@@ -1,23 +1,22 @@
 <h1 align="center">Hi 👋, I'm Ujjwal Srivastava</h1>
 <h3 align="center">An aspiring data analyst</h3>
 
-<img allign = "right" alt = "coding" width = "400" src = "https://camo.githubusercontent.com/9df4195b3400b7aa26664fec3f4661e7d16d29022f29d09b8f89fb8036bab799/68747470733a2f2f6361707475726c792e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323031382f30322f446174612d576562736974652d416e616c79746963732e676966">
+<img allign ="right" alt = "coding" width = "400" src = "https://camo.githubusercontent.com/9df4195b3400b7aa26664fec3f4661e7d16d29022f29d09b8f89fb8036bab799/68747470733a2f2f6361707475726c792e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323031382f30322f446174612d576562736974652d416e616c79746963732e676966">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lonecoder69&label=Profile%20views&color=0e75b6&style=flat" alt="lonecoder69" /> </p>
-🌱 I’m currently learning Machine Learning & Deep Learning
+🌱 I’m currently learning Machine Learning , Blockchain , Quant Analytics and Buisness analytics tools
 
-🌐 Currently doing projects in Computer Vision .
 
-👨‍💻 All of my projects are available at shorturl.at/eEKLQ
+🌐 Currently doing projects in Machine learning and data analytics .
 
-💬 Ask me about Machine Learning :)
+👨‍💻 All of my projects are available on Github only.
 
-📄 Feel Free to check out my CV shorturl.at/qtyIY
+💬 Ask me about Data Analytics :)
 
-📄 Giving it back to the community :') https://medium.com/me/stories/public
+📄 Start Leetcoding
 
-⚡ Fun fact I Love Game of Thrones and Anime
+⚡ Fun fact I Love Mysteries and thrillers
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lonecoder69" alt="lonecoder69" /></a> </p>
 
