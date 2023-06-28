@@ -27,8 +27,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/UjjwalS39793763?t=BwfC4R_aJ7bDLhq1x8QRmg&s=09" target="blank"><img align="center" src="https://www.kindpng.com/picc/m/20-203688_twitter-icon-transparent-background-twitter-logo-hd-png.png" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ujjwal-srivastava-223b661b6" target="blank"><img align="center" src="https://myclouddoor.com/wp-content/uploads/2019/11/Linkedin-logo.png" alt="ujjwal srivastava" height="30" width="40" /></a>
+<a href="https://twitter.com/UjjwalS39793763?t=BwfC4R_aJ7bDLhq1x8QRmg&s=09" target="blank"><img align="center" src="https://www.kindpng.com/picc/m/20-203688_twitter-icon-transparent-background-twitter-logo-hd-png.png" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/ujjwal-srivastava-223b661b6" target="blank"><img align="center" src="https://myclouddoor.com/wp-content/uploads/2019/11/Linkedin-logo.png" alt="ujjwal srivastava" height="30" width="50" /></a>
 <a href="https://kaggle.com/ujjwalsrivastava023" target="blank"><img align="center" src="https://tse1.mm.bing.net/th?id=OIP.-Z0A1a16i6g_uiYCnbl8mgHaHa&pid=Api&rs=1&c=1&qlt=95&w=118&h=118" alt="ujjwal srivastava023" height="30" width="40" /></a>
 <a href="https://fb.com/ujjwal.srivastava.77312" target="blank"><img align="center" src="https://tse1.mm.bing.net/th?id=OIP.Ua5AXhtGRgPuisZVmetclQHaFL&pid=Api&rs=1&c=1&qlt=95&w=160&h=111" alt="ujjwal.srivastava.77312" height="30" width="40" /></a>
 <a href="https://instagram.com/ujjwal.srivastava.77312" target="blank"><img align="center" src="https://s.yimg.com/fz/api/res/1.2/7wmcqjtgVFiMeMxLOlW3sw--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTI0MDtxPTgwO3c9MjQw/https://s.yimg.com/zb/imgv1/e9d6381f-6a16-39d9-b6f9-1467838c022c/t_500x300" alt="ujjwal.srivastava.77312" height="30" width="40" /></a>
