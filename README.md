@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ujjwal Srivastava</h1>
 <h3 align="center">An aspiring data analyst</h3>
 
-<img align="right" alt ="coding" width="400" src="https://i.pinimg.com/564x/9d/22/57/9d225727400cd5ee25bd320f8b9f0145.jpg">
+<img align="right" alt ="coding" width="300" src="https://i.pinimg.com/564x/9d/22/57/9d225727400cd5ee25bd320f8b9f0145.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lonecoder69&label=Profile%20views&color=0e75b6&style=flat" alt="lonecoder69" /> </p>
 
