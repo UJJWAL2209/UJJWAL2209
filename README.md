@@ -35,7 +35,7 @@
 <a href="https://dribbble.com/UZI_22" target="blank"><img align="center" src="https://s.yimg.com/fz/api/res/1.2/uhu5T1jvkLfue9DvBCXf8g--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpbGw7aD05Njt3PTk2/https://tse2.mm.bing.net/th?q=Dribbble+Logo+Design&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1" alt="uzi_22" height="30" width="40" /></a>
 <a href="https://medium.com/@srivastavaujjwal510" target="blank"><img align="center" src="https://tse1.mm.bing.net/th?id=OIP.C-5V5gdfQB3ZR6Xvq_4HOwHaEK&pid=Api&P=0&h=180" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/srivastavaujjwa2?hr_r=1" target="blank"><img align="center" src="https://hrcdn.net/fcore/assets/work/header/hackerrank_logo-21e2867566.svg" alt="@srivastavaujjwa2" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/lone_coder69" target="blank"><img align="center" src="https://leetcode.com/static/images/LeetCode_logo.png" alt="lone_coder69" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/UJJWAL2209" target="blank"><img align="center" src="https://leetcode.com/static/images/LeetCode_logo.png" alt="lone_coder69" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/srivastavaujjwal510" target="blank"><img align="center" src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" alt="srivastavaujjwal510" height="30" width="40" /></a>
 </p>
 
