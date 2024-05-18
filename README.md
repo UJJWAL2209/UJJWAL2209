@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lonecoder69&label=Profile%20views&color=0e75b6&style=flat" alt="lonecoder69" /> </p>
 
-🌱 I’m currently learning Machine Learning , Blockchain , Quant Analytics and Buisness analytics tools .
+🌱 I’m currently learning Data Analytics , Data Engineering , Machine Learning and Artificial Intelligence .
 
 🌐 Currently doing projects in Machine learning and data analytics .
 
@@ -13,9 +13,7 @@
 
 💬 Ask me about Data Analytics :)
 
-📄 Keep Leetcoding
-
-⚡ Fun fact I Love Mysteries and thrillers
+📄 Keep doing GFG and Leetcode
 
 ✅ I love to do photography and reading books .
 
